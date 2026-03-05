@@ -1,0 +1,13 @@
+Zajęcia 3. Gromadzenie i analiza wymagań
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Funkcjonalne : 
+-Tworzenie graficznej reprezentacji chmury słów.
+-preprocessing: usuwanie słow nieznaczących: spójników itd. 
+
+Niefunkcjonalne:
+-Intuicyjność kodu,uporządkowanie etc.(przejżystość)
+-Oparcie o powszechnieznane biblioteki (uniwersalność)
+
+
+
